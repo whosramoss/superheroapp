@@ -48,6 +48,14 @@ To run this project on your own, do the following:
 4. Add your personal *access-token* in variable ***key*** at *app/home/data/datasources/endpoints.dart*
 5. Run the project using `flutter run` or using your IDE's tools.
 
+## 🖥️ Versions
+System environment versions that this project was created :
+- Flutter 2.2.3 • channel stable
+- Dart 2.13.4
+- Android toolchain (Android SDK version 30.0.3)
+- Android Studio (version 4.1.0)
+- VS Code (version 1.61.2)
+
 ## 🌐Technologies and dependencies
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
 - [google_fonts](https://pub.dev/packages/google_fonts)
